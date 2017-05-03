@@ -15,6 +15,7 @@
     <sprites name="ElixerCollectors">
       <sprite>sprites\spr_elixercollector_lvl1</sprite>
     </sprites>
+    <sprite>sprites\sprtie</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
