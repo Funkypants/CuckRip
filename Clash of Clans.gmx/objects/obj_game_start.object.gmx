@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>window_set_fullscreen(2560);
+            <string>window_set_fullscreen(1080);
 </string>
           </argument>
         </arguments>

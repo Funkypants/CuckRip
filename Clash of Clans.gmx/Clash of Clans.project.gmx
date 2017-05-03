@@ -20,6 +20,9 @@
     <background>background\bg_grass</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_global_vars.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_game_start</object>
     <objects name="Gold">
